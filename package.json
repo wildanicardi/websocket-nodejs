@@ -1,0 +1,18 @@
+{
+  "name": "websocket-notification",
+  "version": "1.0.0",
+  "description": "websocket server notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "notification"
+  ],
+  "author": "wildanicardi",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.31"
+  }
+}
